@@ -1,6 +1,6 @@
 package com.spring.rest.controllers;
 
-import com.spring.rest.controllers.clientDTO.ClientDTO;
+import com.spring.rest.controllers.DTO.ClientDTO;
 import com.spring.rest.models.Client;
 import com.spring.rest.services.ClientService;
 import lombok.RequiredArgsConstructor;

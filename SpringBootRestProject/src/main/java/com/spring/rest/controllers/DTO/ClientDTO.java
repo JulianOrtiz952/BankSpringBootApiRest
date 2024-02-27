@@ -1,4 +1,4 @@
-package com.spring.rest.controllers.clientDTO;
+package com.spring.rest.controllers.DTO;
 
 import lombok.*;
 

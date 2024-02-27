@@ -31,4 +31,6 @@ public class AccountService {
         accountRepository.deleteById(id);
     }
 
+    public void save(Account account){accountRepository.save(account);};
+
 }
